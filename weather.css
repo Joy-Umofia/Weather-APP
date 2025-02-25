@@ -204,7 +204,8 @@ aside{
     
   }
   .header h1{
-    font-size: 24px;
+    font-size: 1.5rem;
+    width: 100%;
     }
     input{
       width: 100%;
